@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I am a .NET Developer with 3+ years of experience building enterprise web applications using ASP.NET Core, ASP.NET MVC, C#, SQL Server and REST APIs.
+I am a .NET Developer with 2.5 years of experience building enterprise web applications using ASP.NET Core, ASP.NET MVC, C#, SQL Server and REST APIs.
 
 I enjoy developing scalable backend systems, optimizing SQL queries, integrating APIs, deploying applications on IIS, and solving real-world business problems.
 
